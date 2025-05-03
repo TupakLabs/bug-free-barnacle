@@ -6,7 +6,7 @@ Bug-Free Barnacle is a lightweight shell script that calculates simple interest 
 
 - Simple interest calculation via shell script
 - User prompts for input values
-- Clean and easy-to-read code
+- Clean and easy-to-read code and cool
 - Fully open-source (Apache 2.0)
 
 ## Usage
