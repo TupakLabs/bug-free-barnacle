@@ -14,6 +14,6 @@ We pledge to make participation in our community a harassment-free experience fo
 
 ## Enforcement
 
-Instances of abusive or unacceptable behavior may be reported by contacting the project team at **your-email@example.com**.
+Instances of abusive or unacceptable behavior may be reported by contacting the project team at **example@example.com**.
 
 ---
